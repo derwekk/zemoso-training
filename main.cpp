@@ -1,10 +1,3 @@
-
-//  main.cpp
-//  program
-//
-//  Created by Derek Allen on 23/02/23.
-//
-
 #include <iostream>
 #include <queue>
 #include <vector>
